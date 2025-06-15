@@ -4,3 +4,5 @@
 *.tfstate.backup
 .terraform.lock.hcl
 .bfg.jar
+.env
+.ci.yml
