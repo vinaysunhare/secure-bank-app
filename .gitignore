@@ -6,3 +6,4 @@
 .bfg.jar
 .env
 .ci.yml
+terraform/.env
